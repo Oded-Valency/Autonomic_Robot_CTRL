@@ -12,6 +12,7 @@ heading : int (-100..+100), where
 tested on L298D module via Arduino UNO R3
 by: Valency Oded
 last rev 1.2 at 29-Jul-2022   compilation error debud 1
+12-Juy-2022 published with Gal
 rev 1.x predefine Arduino pin allocation,  
 rev 2.x will get the arduino pin num from the user
 */
